@@ -1,3 +1,3 @@
 # teamb
 
-node.js 16.17.0
+node.js 18.9.0
